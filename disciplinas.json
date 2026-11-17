@@ -1,0 +1,127 @@
+[
+  {
+    "id": "7600015_T02",
+    "codigo": "7600015",
+    "nome": "Laboratório de Física III (T02)",
+    "categoria": "Obrigatória",
+    "grupo_exclusivo": "7600015",
+    "creditos": 4,
+    "docente": "Euclydes Marega Junior",
+    "local": "LEF / IFSC",
+    "horarios": [
+      ["Ter", "08h10 - 09h50"],
+      ["Ter", "10h10 - 11h50"]
+    ]
+  },
+  {
+    "id": "7600015_T04",
+    "codigo": "7600015",
+    "nome": "Laboratório de Física III (T04 - Mista)",
+    "categoria": "Obrigatória",
+    "grupo_exclusivo": "7600015",
+    "creditos": 4,
+    "docente": "Luiz Agostinho Ferreira",
+    "local": "LEF / IFSC",
+    "horarios": [
+      ["Qui", "08h10 - 09h50"],
+      ["Qui", "10h10 - 11h50"]
+    ]
+  },
+  {
+    "id": "7600020",
+    "codigo": "7600020",
+    "nome": "Física Matemática A",
+    "categoria": "Obrigatória",
+    "grupo_exclusivo": null,
+    "creditos": 4,
+    "docente": "Leonardo Paulo Maia",
+    "local": "Anfi Prof. Panepucci",
+    "horarios": [
+      ["Seg", "14h20 - 16h00"],
+      ["Qua", "14h20 - 16h00"]
+    ]
+  },
+  {
+    "id": "SCC0240",
+    "codigo": "SCC0240",
+    "nome": "Bases de Dados",
+    "categoria": "Opcional",
+    "grupo_exclusivo": null,
+    "creditos": 4,
+    "docente": "A confirmar (ICMC)",
+    "local": "ICMC",
+    "horarios": [
+      ["Ter", "14h20 - 16h00"],
+      ["Qui", "16h20 - 18h00"]
+    ]
+  },
+  {
+    "id": "7600135",
+    "codigo": "7600135",
+    "nome": "Tópicos Esp. I: Introd. à Matemática Financeira",
+    "categoria": "Opcional",
+    "grupo_exclusivo": null,
+    "creditos": 4,
+    "docente": "Roland Koberle",
+    "local": "Sala F-210",
+    "horarios": [
+      ["Qua", "08h10 - 09h50"],
+      ["Qua", "10h10 - 11h50"]
+    ]
+  },
+  {
+    "id": "7600055",
+    "codigo": "7600055",
+    "nome": "Programação Orientada a Objetos",
+    "categoria": "Opcional",
+    "grupo_exclusivo": null,
+    "creditos": 4,
+    "docente": "A confirmar",
+    "local": "A confirmar",
+    "horarios": [
+      ["Seg", "14h20 - 16h00"],
+      ["Qua", "16h20 - 18h00"]
+    ]
+  },
+  {
+    "id": "7600025",
+    "codigo": "7600025",
+    "nome": "Vibrações e Ondas",
+    "categoria": "Opcional",
+    "grupo_exclusivo": null,
+    "creditos": 4,
+    "docente": "Lidério Citrângulo Ioriatti Júnior",
+    "local": "Sala F-210",
+    "horarios": [
+      ["Qua", "14h20 - 16h00"]
+    ]
+  },
+  {
+    "id": "7600041",
+    "codigo": "7600041",
+    "nome": "Mecânica Estatística",
+    "categoria": "Opcional (7º sem.)",
+    "grupo_exclusivo": null,
+    "creditos": 4,
+    "docente": "Victor Luiz Quito",
+    "local": "Sala 146",
+    "horarios": [
+      ["Ter", "08h10 - 09h50"],
+      ["Qui", "08h10 - 09h50"]
+    ]
+  },
+  {
+    "id": "7600073",
+    "codigo": "7600073",
+    "nome": "Física Estatística Computacional",
+    "categoria": "Opcional (7º sem.)",
+    "grupo_exclusivo": null,
+    "creditos": 4,
+    "docente": "José Abel Hoyos Neto",
+    "local": "Lab. Comp. 206",
+    "horarios": [
+      ["Ter", "14h20 - 16h00"],
+      ["Qui", "16h20 - 18h00"]
+    ]
+  }
+]
