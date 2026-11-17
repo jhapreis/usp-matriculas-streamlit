@@ -17,3 +17,6 @@ build-backend = "hatchling.build"
 dev = [
     "black",
 ]
+
+[tool.uv]
+package = false
